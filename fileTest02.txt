@@ -1,0 +1,27 @@
+Primera Linea, primer Commit
+Segunda Linea de prueba despues del commit Master
+Segunda Linea, segundo Commit
+Este cambio se agregara al area de Stagin pero se realizara el commit desde la rama termux
+AHORA SI Este cambio se agregara al area de Stagin pero se realizara el commit desde la rama termux
+
+Este espacio estara dedicado para la rama termux
+
+
+
+
+
+Este espacio estara dedicado para la rama Trading
+
+
+
+
+Aca que 01
+02
+03
+04
+05
+06
+
+Primera prueba desde la rama Trading sobre el archivo orignial
+
+Linea desde la rama termux para ver la fusiòn con la rama master
