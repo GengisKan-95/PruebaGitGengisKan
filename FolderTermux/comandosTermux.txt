@@ -15,4 +15,6 @@ Aca iran cambios de otra Rama:(Colocar nombre)
 
 
 ______________________________________________________________
-Aca iran cambios de otra Rama:(Colocar nombre)
+Aca iran cambios de otra Rama:(Colocar nombre) la segunda rama es rama02
+
+Aca esta la primera modificacion el la rama02 :)
