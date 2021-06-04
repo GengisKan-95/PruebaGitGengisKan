@@ -3,3 +3,16 @@ Primera linea en Termux Primer Commit
 Primer cambio en la rama brTermux :D
 
 Segunda cambio en la rama Master
+_______________________________________________________________
+Nuevo inicio, para este segundo commit anclado al GitHub
+
+Aca se realizaran cambios desde la rama "main"
+
+_________________________________________________________________
+Aca iran cambios de otra Rama:(Colocar nombre)
+
+
+
+
+______________________________________________________________
+Aca iran cambios de otra Rama:(Colocar nombre)

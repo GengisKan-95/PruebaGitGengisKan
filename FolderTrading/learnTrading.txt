@@ -5,3 +5,17 @@ Primer tema:
 Linea de primer commit
 
 Primera linea en la rama de brTrading :/ 
+
+_______________________________________________________________
+Nuevo inicio, para este segundo commit anclado al GitHub
+
+Aca se realizaran cambios desde la rama "main"
+
+_________________________________________________________________
+Aca iran cambios de otra Rama:(Colocar nombre)
+
+
+
+
+______________________________________________________________
+Aca iran cambios de otra Rama:(Colocar nombre)

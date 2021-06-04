@@ -21,6 +21,14 @@ Aca que 01
 04
 05
 06
+_____________________________________________________________________________
+
+Empiezan las pruebas en GITHUB, este es el segundo commit con camilo.ro.ha
+
+
+
+
+
 
 Primera prueba desde la rama Trading sobre el archivo orignial
 
