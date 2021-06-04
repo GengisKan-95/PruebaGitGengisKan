@@ -9,10 +9,11 @@ Nuevo inicio, para este segundo commit anclado al GitHub
 Aca se realizaran cambios desde la rama "main"
 
 _________________________________________________________________
-Aca iran cambios de otra Rama:(Colocar nombre)
+Aca iran cambios de otra Rama:(Colocar nombre) El nombre es Rama01
 
-
+Aca coloco contenido desde la Rama01 :D para su primer commit
 
 
 ______________________________________________________________
 Aca iran cambios de otra Rama:(Colocar nombre)
+
