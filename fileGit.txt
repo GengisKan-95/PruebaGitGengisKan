@@ -13,3 +13,5 @@ id;name;size;color;price
 Primer commit desde Main para la probar REBASE
 
 Segundo commit desde Main para la prueba de REBASE
+
+Se realiza una segunda edicion desde la rama fix para REBASE
