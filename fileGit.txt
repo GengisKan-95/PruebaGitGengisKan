@@ -10,6 +10,8 @@ id;name;size;color;price
 0009;ACA SE REALIZARA OTRA PRUEBA PARA REALIZAR RESET EN EL SEGUNDO COMMIT
 0010;Modificacion para verificar enlace con GitHub
 
+Tercera modificacion desde FIxing para REBASE
+
 Primer commit desde Main para la probar REBASE
 
 Segundo commit desde Main para la prueba de REBASE
